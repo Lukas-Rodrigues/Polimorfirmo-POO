@@ -1,0 +1,8 @@
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Nova pasta\polimorfismo\polimorfismo\bin\Debug\polimorfismo.exe.config
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Nova pasta\polimorfismo\polimorfismo\bin\Debug\polimorfismo.exe
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Nova pasta\polimorfismo\polimorfismo\bin\Debug\polimorfismo.pdb
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Nova pasta\polimorfismo\polimorfismo\obj\Debug\polimorfismo.csproj.AssemblyReference.cache
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Nova pasta\polimorfismo\polimorfismo\obj\Debug\polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Nova pasta\polimorfismo\polimorfismo\obj\Debug\polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Nova pasta\polimorfismo\polimorfismo\obj\Debug\polimorfismo.exe
+C:\Users\LUCAS PROVISÓRIO\Desktop\Sistemas de informação\3 semestre\Linguagem de Programação II\Exercicio POO - site\Nova pasta\polimorfismo\polimorfismo\obj\Debug\polimorfismo.pdb
